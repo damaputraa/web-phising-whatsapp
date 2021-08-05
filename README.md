@@ -1,2 +1,2 @@
 # web-phs
-ini adalah website phising saya
+Web Phising menggunakan Whatsapp
