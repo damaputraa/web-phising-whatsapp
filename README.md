@@ -1,2 +1,2 @@
 # web-phs
-Web Phising menggunakan Whatsapp
+Web Phising menggunakan Whatsapp.
